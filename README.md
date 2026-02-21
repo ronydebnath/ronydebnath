@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm an AI Software Engineer with 6+ years of experience in full-stack development and data engineering. I hold a **Master's in Data Science & Innovation from UTS** and a **Certified Scrum Master** credential. I love building products that solve real problems — from scalable web apps to automated data pipelines and AI-powered systems.
+I'm an AI Software Engineer with 12+ years of experience in full-stack development and data engineering. I hold a **Master's in Data Science & Innovation from UTS** and a **Certified Scrum Master** credential. I love building products that solve real problems — from scalable web apps to automated data pipelines and AI-powered systems.
 
 - 🔭 Currently working on **AI-integrated applications & ETL automation**
 - 🌱 Exploring **LLM integrations, agentic workflows & cloud-native architectures**
