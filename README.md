@@ -1,44 +1,117 @@
-<!--
-**ronydebnath/ronydebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rony+Debnath;AI+Software+Engineer;Full-Stack+Developer;Data+Engineer" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Rony Debnath</h1>
-<h3 align="center">A passionate DevOps Software Engineer Based in Dhaka, Bangladesh.</h3>
 <p align="center">
-<a href="https://twitter.com/ronydnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ronydnath" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/ronydebnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ronydebnath" height="20" width="20" /></a>
-<a href="https://fb.com/rdrony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rdrony" height="20" width="20" /></a>
-<a href="https://medium.com/@ronydebnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ronydebnath" height="20" width="20" /></a>
-<a href="https://gitlab.com/ronydebnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="@ronydebnath" height="20" width="20" /></a>
+  <em>AI Software Engineer based in Sydney, Australia 🇦🇺</em><br/>
+  <em>Building intelligent systems at the intersection of software engineering, data, and AI.</em>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronydebnath" alt="ronydebnath" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/ronydebnath"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ronydebnath"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://medium.com/@ronydebnath"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:hello@ronydebnath.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p>Currently I'm focusing on Product Management and an engineering manager at <a href="https://amujamu.com/" title="Leading Tour Activity Booking Marketplace of Thailand">amujamu</a>. When I have time, I try to hack open source products and learn something new. If you need some help that I can offer in issues, or you need help with private code, you can contact me to discuss paid work. </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronydebnath&style=flat-square&color=6C63FF" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities" />
+</p>
 
-- 🌱 I’m currently learning **Oracle Cloud Architecture**
+---
 
-- 👯 I’m looking to collaborate on any social tech product that will help to enhance the life of people or help protect the environment.
+### 🧑‍💻 About Me
 
-- 💬 Ask me about **PHP, Laravel, CI/CD, Docker or Kubernetes**
+I'm an AI Software Engineer with 6+ years of experience in full-stack development and data engineering. I hold a **Master's in Data Science & Innovation from UTS** and a **Certified Scrum Master** credential. I love building products that solve real problems — from scalable web apps to automated data pipelines and AI-powered systems.
 
-- 📫 reach me on **hello[at]ronydebnath.com** or any of my social profiles
+- 🔭 Currently working on **AI-integrated applications & ETL automation**
+- 🌱 Exploring **LLM integrations, agentic workflows & cloud-native architectures**
+- 👯 Open to collaborating on **impactful tech products and open-source projects**
+- 💬 Ask me about **Laravel, React, Data Pipelines, or AI/ML integrations**
+- 📫 Reach me at **hello[at]ronydebnath.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/></p><p align="center"> </p>
+---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
+**Languages**
 
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Data & AI**
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ronydebnaths-projects.vercel.app/api?username=ronydebnath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ronydebnaths-projects.vercel.app/api?username=ronydebnath&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats-ronydebnaths-projects.vercel.app/api?username=ronydebnath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ronydebnaths-projects.vercel.app/api/top-langs/?username=ronydebnath&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ronydebnaths-projects.vercel.app/api/top-langs/?username=ronydebnath&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-ronydebnaths-projects.vercel.app/api/top-langs/?username=ronydebnath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ronydebnath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Highlights
+
+- 🚀 Built ETL pipelines using **Apache Airflow & dbt** that automated **60% of manual workflows**
+- 🤖 Integrated **OpenAI & Anthropic APIs** into production systems
+- 📱 Architected **React Native** mobile applications with offline-first design
+- ☁️ Achieved **high uptime** with containerized deployments on AWS & GCP
+- 🎓 **Master's in Data Science & Innovation** — University of Technology Sydney
+- 📜 **Certified Scrum Master**
+
+---
+
+<p align="center">
+  <em>💡 "Building bridges between data, AI, and great user experiences."</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ronydebnath">Let's connect!</a>
+</p>
